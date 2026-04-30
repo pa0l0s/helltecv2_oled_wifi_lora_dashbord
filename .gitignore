@@ -1,0 +1,10 @@
+.pio/
+.platformio/
+.venv/
+.vscode/
+.codex
+.codex/
+*.bin
+*.elf
+*.map
+src/config.local.h
